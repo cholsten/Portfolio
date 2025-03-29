@@ -10,7 +10,7 @@ Here are a few of my recent projects.
 
 ## Projects
 
-- Exploratory analysis of ambulatory primary care appointments
+- :bar_chart:[Exploratory analysis of ambulatory primary care appointments](https://github.com/cholsten/EHR-Appointment-Analysis)
 - Analysis of CMS home health data
 - Automated process for documentation reminder emails and tracking
 - Custom therapy note generator
