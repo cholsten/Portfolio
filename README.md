@@ -24,8 +24,15 @@ Master of Science in Occupational Therapy, University of Alabama at Birmingham, 
 
 Bachelor of Science in Biology and Psychology, University of Georgia, Dec 2003
 
+## Technology & Skills
 
-## Contact Information
+- Programming: Python for developing applications, automation, and data processing workflows.
+- Data Visualization: Power BI and Tableau to support data-driven decision-making.
+- Database Management & Analysis: SQL queries for data extraction, transformation, and analysis across diverse healthcare datasets.
+- Healthcare Domain Knowledge: Comprehensive understandign of cinical documentation standards and workflows across inpatient, outpatient, and home health settings, and 
+   health insurance coding, billing, and claims management.
+
+## Contact 
 
 Email Catherine.Holsten@gmail.com
 
