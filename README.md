@@ -4,7 +4,7 @@ Welcome to my **portfolio**, I'm glad you're here.
 
 ## About Me
 
-I'm Catherine, a healthcare provider turned analyst. I use the domain knowledge I've gained from working as a clinician in multiple settings, along with my technical skills to help healthcare organizations use data to make smart decisions and meet goals.
+I'm Catherine, a healthcare provider turned analyst. I bring together the domain knowledge I've gained from working as a clinician in multiple settings, along with my technical skills to help healthcare organizations use data to make smart decisions and meet goals.
 
 Here are a few of my recent projects. 
 
