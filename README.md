@@ -4,7 +4,7 @@ Welcome to my **portfolio**, I'm glad you're here.
 
 ## About Me
 
-I'm Catherine, a healthcare provider turned analyst. I bring together the domain knowledge I've gained from working as a clinician in multiple settings, along with my technical skills to help healthcare organizations use data to make smart decisions and meet goals.
+I'm Catherine, a healthcare provider turned analyst. I bring together the domain knowledge I've gained from working as a clinician in multiple settings and a manager of a private practice, along with my technical skills to help healthcare organizations use data to make smart decisions and meet goals.
 
 Here are a few of my recent projects. 
 
@@ -28,7 +28,7 @@ Bachelor of Science in Biology and Psychology, University of Georgia, Dec 2003
 
 - Programming: Python for developing applications, automation, and data processing workflows.
 - Data Visualization: Power BI and Tableau to support data-driven decision-making.
-- Database Management & Analysis: SQL queries for data extraction, transformation, and analysis across diverse healthcare datasets.
+- Data Management & Analysis: Excel and SQL for data extraction, transformation, and analysis across diverse healthcare datasets.
 - Healthcare Domain Knowledge: Comprehensive understandign of cinical documentation standards and workflows across inpatient, outpatient, and home health settings, and 
    health insurance coding, billing, and claims management.
 
