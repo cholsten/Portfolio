@@ -29,7 +29,7 @@ Bachelor of Science in Biology and Psychology, University of Georgia, Dec 2003
 - Programming: Python for developing applications, automation, and data processing workflows.
 - Data Visualization: Power BI and Tableau to support data-driven decision-making.
 - Data Management & Analysis: Excel and SQL for data extraction, transformation, and analysis across diverse healthcare datasets.
-- Healthcare Domain Knowledge: Comprehensive understandign of cinical documentation standards and workflows across inpatient, outpatient, and home health settings, and 
+- Healthcare Domain Knowledge: Comprehensive understanding of cinical documentation standards and workflows across inpatient, outpatient, and home health settings, and 
    health insurance coding, billing, and claims management.
 
 ## Contact 
