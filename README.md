@@ -10,8 +10,8 @@ Here are a few of my recent projects.
 
 ## Projects
 
-- 📊:[Exploratory analysis of ambulatory primary care appointments](https://github.com/cholsten/EHR-Appointment-Analysis)
-- Analysis of CMS home health data
+- 📊[Exploratory analysis of ambulatory primary care appointments using Excel, SQL, and Power BI](https://github.com/cholsten/EHR-Appointment-Analysis)
+- [Billing claims analysis using Excel and Pivot Tables]
 - Automated process for documentation reminder emails and tracking
 - 📋[Custom note generator](https://ot-note-generator.streamlit.app/)
 
