@@ -18,7 +18,7 @@ These projects offer a snapshot of my experience, and reflect the practical appl
 
 ## Education
 
-Master of Science in Health Informatics and Analytics, University of North Carolina at Charlotte, May 2025
+Master of Science in Health Informatics and Analytics, University of North Carolina at Charlotte, Aug 2025
 
 Master of Science in Occupational Therapy, University of Alabama at Birmingham, Dec 2006
 
