@@ -14,6 +14,7 @@ These projects offer a snapshot of my experience, and reflect the practical appl
 - 💲[Billing claims analysis using Excel and Pivot Tables](https://github.com/cholsten/ClaimsAnalysis)
 - 🔔[Automated process for documentation reminder emails using MS Power Automate](https://github.com/cholsten/PowerAutomate)
 - 📋[Custom note generator using Python and Streamlit](https://ot-note-generator.streamlit.app/)
+- :people_holding_hands:[HR data analysis using Python for predictive modeling](https://github.com/cholsten/EmployeeAttritionRisk)
 
 
 ## Education
